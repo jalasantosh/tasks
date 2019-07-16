@@ -1,0 +1,12 @@
+[2018-10-08T16:19:09,701][INFO ][o.e.x.m.MlDailyMaintenanceService] triggering scheduled [ML] maintenance tasks
+[2018-10-08T16:19:10,803][INFO ][o.e.x.m.a.TransportDeleteExpiredDataAction] [e2VYHBy] Deleting expired data
+[2018-10-08T16:19:11,214][INFO ][o.e.x.m.a.TransportDeleteExpiredDataAction] [e2VYHBy] Completed deletion of expired data
+[2018-10-08T16:19:11,219][INFO ][o.e.x.m.MlDailyMaintenanceService] Successfully completed [ML] maintenance tasks
+[2018-10-08T16:22:37,468][INFO ][o.e.b.Bootstrap          ] running graceful exit on windows
+[2018-10-08T16:22:37,479][INFO ][o.e.n.Node               ] [e2VYHBy] stopping ...
+[2018-10-08T16:22:37,584][INFO ][o.e.x.w.WatcherService   ] [e2VYHBy] stopping watch service, reason [shutdown initiated]
+[2018-10-08T16:22:37,830][INFO ][o.e.x.m.j.p.l.CppLogMessageHandler] [controller/16200] [Main.cc@148] Ml controller exiting
+[2018-10-08T16:22:37,836][INFO ][o.e.x.m.j.p.NativeController] Native controller process has stopped - no new native processes can be started
+[2018-10-08T16:22:37,857][INFO ][o.e.n.Node               ] [e2VYHBy] stopped
+[2018-10-08T16:22:37,857][INFO ][o.e.n.Node               ] [e2VYHBy] closing ...
+[2018-10-08T16:22:37,927][INFO ][o.e.n.Node               ] [e2VYHBy] closed
